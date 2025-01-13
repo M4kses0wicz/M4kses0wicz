@@ -1,6 +1,6 @@
 
 # 🚀 About Me
-I'm Frontend Web Developer (Perfectionist).
+I'm Frontend Web Developer.
 I specialize in creating clean, and visually appealing websites. Despite the fact that I do best in front end web develepment, I'm not limited to this. I am a fast learner and adaptable. Whether it’s exploring other technologies or tackling new challenges, I adapt quickly to circumstances and deliver great results.<br/>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.klemensowicz.pl)
 
