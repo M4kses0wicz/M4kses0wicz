@@ -11,7 +11,7 @@ I specialize in creating clean, and visually appealing websites. Despite the fac
 
 
 # ✉️ Contact me!
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:maksklemensowicz@gmail.com)[![Discord](https://img.shields.io/badge/Discord-maksesowicz-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/778330114009464852)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:maksklemensowicz@gmail.com)       [![Discord](https://img.shields.io/badge/Discord-maksesowicz-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/778330114009464852)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m4kses0wicz&theme=dark&hide_border=false)<br/>
