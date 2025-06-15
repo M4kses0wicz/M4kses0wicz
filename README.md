@@ -6,7 +6,7 @@ I specialize in creating clean, and astonishing websites. Despite the fact that 
 
 
 # ✉️ Contact me!
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:contact@klemensowicz.pl)       [![Discord](https://img.shields.io/badge/Discord-maksesowicz-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/778330114009464852)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:contact@klemensowicz.pl) (contact@klemensowicz.pl)       [![Discord](https://img.shields.io/badge/Discord-maksesowicz-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/778330114009464852) (MAksesOwicz)
 
 
 ## 💻 Tech Stack
