@@ -1,7 +1,7 @@
 
 # 🚀 About Me
 I'm Frontend Web Developer and UI/UX designer.
-I specialize in creating clean, and astonishing websites. Despite the fact that I do best in front end web develepment, I'm not limited to this. I'm a fast learner and adaptable. Whether it’s exploring other technologies or tackling new challenges, I adapt quickly to circumstances and deliver great results.
+I specialize in creating clean and user-friendly websites. Despite the fact that I do best in front end web develepment, I'm not limited to this. I'm a fast learner and adaptable. Whether it’s exploring other technologies or tackling new challenges, I adapt quickly to circumstances and deliver great results.
 
 
 # ✉️ Contact me!
